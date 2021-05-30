@@ -36,3 +36,5 @@ p second_to_the_last("looptool") == "LooptOol"
 p second_to_the_last("bb") == "Bb"
 p second_to_the_last("abcdabcd") == "ABCDabcd"
 p second_to_the_last("adrian") == "Adrian"
+
+# test for git
